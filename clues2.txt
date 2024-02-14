@@ -3,4 +3,4 @@ cOmPuTEr ScIenCe - group 3
 grp1 smart
 redflag - group 3
 HARD - group 2
-
+tricky - group 3
